@@ -1,0 +1,12 @@
+@import '../../../../styles/common.less';
+
+// 循环遍历出系统支持的主题
+each(@theme-colors, {
+        .icon-@{key} {
+            color: @value
+        }
+    }
+
+);
+
+.tw-icon {}
