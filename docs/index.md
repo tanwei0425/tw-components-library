@@ -17,6 +17,6 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: TypeScript
     desc: 使用 TypeScript 开发，提供完整的类型定义文件
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [tanwei](https://hellotanwei.cn)
+footer: © 2020 components.hellotanwei.cn 版权所有 ICP ：[鲁ICP备19058798号-2](http://beian.miit.gov.cn)
 ---
 
